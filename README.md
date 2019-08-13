@@ -21,7 +21,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) **`TO DO`** | Duke | 4 weeks | 3-6 hours/week | once a month | Java Programming: Principles of Software Design
 [Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) **`DONE`**| UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
 [Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) **`DONE`** | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
-[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) **`DOING`** | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
+[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) **`DONE`** | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
 
 ## Math
 
