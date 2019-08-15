@@ -2,6 +2,24 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+## Tanzim's Course Content Repositories
+
+The following repositories contain assignments and other other course content.
+
+- Programming Languages
+   - https://github.com/mtanzim/prog-lang-a
+   - https://github.com/mtanzim/prog-lang-b
+   - https://github.com/mtanzim/prog-lang-c
+- Algorithms I
+   - https://github.com/mtanzim/algorithms1-deque
+   - https://github.com/mtanzim/algorithms1-kdtree
+   - https://github.com/mtanzim/algorithms1-8puzzle
+   - https://github.com/mtanzim/algorithms1-collinear-points
+   - https://github.com/mtanzim/algorithms1-percolation
+ - Algorithms II
+ - Object Oriented Programming in Java
+    - https://github.com/mtanzim/oop-java-earthquake-map
+
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
