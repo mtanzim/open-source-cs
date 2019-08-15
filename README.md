@@ -4,6 +4,8 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 ## Tanzim's Course Repositories
 
+[Grades/Certifications](https://drive.google.com/open?id=10vHCM6mHMmbYnnu27JSyjthktgghewVi)
+
 The following repositories contain assignments and other other course content.
 
 - Programming Languages
@@ -19,6 +21,9 @@ The following repositories contain assignments and other other course content.
  - Algorithms II
  - Object Oriented Programming in Java
     - https://github.com/mtanzim/oop-java-earthquake-map
+
+
+
 
 ## Computer Science Basics
 
