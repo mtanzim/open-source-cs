@@ -4,7 +4,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 ## Tanzim's Course Repositories
 
-[Grades/Certifications](https://drive.google.com/open?id=10vHCM6mHMmbYnnu27JSyjthktgghewVi)
+[Grades/Certifications](https://drive.google.com/open?id=1uEQWt3MqasK_9pZQq56JYNX3cEuOozeh)
 
 The following repositories contain assignments and other other course content.
 
