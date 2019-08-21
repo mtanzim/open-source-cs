@@ -1,7 +1,6 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
-
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton.
 ## Tanzim's Course Repositories
 
 [Grades/Certifications](https://drive.google.com/open?id=1cWOZmeg05m0aTdEU2CMf5k5QyHlpnYHo)
