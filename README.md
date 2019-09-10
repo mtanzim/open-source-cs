@@ -19,6 +19,7 @@ The following repositories contain assignments and other other course content.
    - https://github.com/mtanzim/algorithms1-percolation
  - Algorithms II
     - https://github.com/mtanzim/algorithms2-wordnet
+    - https://github.com/mtanzim/algorithms2-seam
  - Object Oriented Programming in Java
     - https://github.com/mtanzim/oop-java-earthquake-map
 
