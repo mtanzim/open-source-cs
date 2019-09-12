@@ -1,30 +1,8 @@
 # The Open Source Computer Science Degree
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton.
-## Tanzim's Course Repositories
 
-[Grades/Certifications](https://drive.google.com/open?id=1cWOZmeg05m0aTdEU2CMf5k5QyHlpnYHo)
-
-The following repositories contain assignments and other other course content.
-
-- Programming Languages
-   - https://github.com/mtanzim/prog-lang-a
-   - https://github.com/mtanzim/prog-lang-b
-   - https://github.com/mtanzim/prog-lang-c
-- Algorithms I
-   - https://github.com/mtanzim/algorithms1-deque
-   - https://github.com/mtanzim/algorithms1-kdtree
-   - https://github.com/mtanzim/algorithms1-8puzzle
-   - https://github.com/mtanzim/algorithms1-collinear-points
-   - https://github.com/mtanzim/algorithms1-percolation
- - Algorithms II
-    - https://github.com/mtanzim/algorithms2-wordnet
-    - https://github.com/mtanzim/algorithms2-seam
- - Object Oriented Programming in Java
-    - https://github.com/mtanzim/oop-java-earthquake-map
-
-
-
+Please see [project tracker](https://github.com/mtanzim/open-source-cs/projects/1?fullscreen=true) for progress.
 
 ## Computer Science Basics
 
